@@ -1,1 +1,0 @@
-{"version":3,"sources":["todo.css"],"names":[],"mappings":"AAAA,KACI,WAAY,CACZ,YAAa,CACb,oBACJ","file":"main.71c7eb03.chunk.css","sourcesContent":[".box{\r\n    width: 300px;\r\n    height: 300px;\r\n    border: 2px solid red;\r\n}"]}
